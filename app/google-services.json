@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451361875719",
+    "firebase_url": "https://ebook-library-98697.firebaseio.com",
+    "project_id": "ebook-library-98697",
+    "storage_bucket": "ebook-library-98697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451361875719:android:093487a6c76b903b3f87a2",
+        "android_client_info": {
+          "package_name": "com.example.android.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451361875719-nc63brcr8ebv56vti77bbgfil9d2egf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebase",
+            "certificate_hash": "78441be28516cc97003b3266a156781be79b29a5"
+          }
+        },
+        {
+          "client_id": "451361875719-ucv2eaodmndufsoouu08qrd63sij9481.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ha-5cFMtbZ5MSpFy5EwZoQFrd9nVMRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451361875719-ucv2eaodmndufsoouu08qrd63sij9481.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
